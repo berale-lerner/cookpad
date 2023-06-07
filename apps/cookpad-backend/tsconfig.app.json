@@ -16,5 +16,5 @@
   ],
   "include": [
     "src/**/*.ts"
-  ]
+, "../../libs/cookpad-types/src/lib/types/recipe.interface.ts"  ]
 }
